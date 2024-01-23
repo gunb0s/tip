@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "b6fcc6a8769278a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d947fce24497157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3809545620db814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "databases/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84904d7af31e1c96",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9695ec626058f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dca3393d820a705d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9cfb0e020c990e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc454a60c36f7390",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac2fab7e6de6785c",
+    "type": "split",
+    "children": [
+      {
+        "id": "239420bf60790b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a756ae574b3c649",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "databases/MySQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dbb7a27398c8060",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "databases/MySQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308e814fef0d6b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f1c3678d185e817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "databases/MySQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3809545620db814",
+  "lastOpenFiles": [
+    "databases/MySQL.md",
+    "databases",
+    "Welcome.md"
+  ]
+}
