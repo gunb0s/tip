@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "databases/MySQL.md",
+                "file": "bash/SCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "databases/MySQL.md",
+                "file": "bash/SCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "databases/MySQL.md",
+                "file": "bash/SCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "databases/MySQL.md"
+                "file": "bash/SCP.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "d3809545620db814",
   "lastOpenFiles": [
     "databases/MySQL.md",
+    "bash/SCP.md",
+    "bash",
     "databases",
     "Welcome.md"
   ]
