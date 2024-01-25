@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57d7cf64a9c81a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kafka Listeners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash/SCP.md",
+                "file": "Kafka Listeners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash/SCP.md",
+                "file": "Kafka Listeners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bash/SCP.md"
+                "file": "Kafka Listeners.md"
               }
             }
           }
@@ -146,10 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3809545620db814",
+  "active": "57d7cf64a9c81a88",
   "lastOpenFiles": [
-    "databases/MySQL.md",
+    "Pasted image 20240125111217.png",
+    "Pasted image 20240125111206.png",
     "bash/SCP.md",
+    "Kafka Listeners.md",
+    "Kafka",
+    "databases/MySQL.md",
     "bash",
     "databases",
     "Welcome.md"
