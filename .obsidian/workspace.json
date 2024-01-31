@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka Listeners.md",
+                "file": "databases/MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka Listeners.md",
+                "file": "databases/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka Listeners.md",
+                "file": "databases/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka Listeners.md"
+                "file": "databases/MySQL.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "57d7cf64a9c81a88",
   "lastOpenFiles": [
+    "Kafka Listeners.md",
     "Pasted image 20240125111217.png",
     "Pasted image 20240125111206.png",
     "bash/SCP.md",
-    "Kafka Listeners.md",
     "Kafka",
     "databases/MySQL.md",
     "bash",
