@@ -1,11 +1,12 @@
-#  Amazon Aurora MySQL
+
 ## binlog
+### Amazon Aurora SQL
 `aurora mysql` 의 `binlog retention hours` 를 볼 수 있음
 ```
 call mysql.rds_show_configuration;
 ```
 
-# Procedure
+## procedure
 procedure를 통해 test data를 batch로 `insert`할 수 있다.
 ```mysql
 create table person (
@@ -33,3 +34,7 @@ DELIMITER ;
 
 CALL BASIC_INSERT;
 ```
+
+## Cannot drop index \[key\]: needed in a foreign key constraint
+
+복합 인덱스를 걸었을 때 인덱스가 걸린 칼럼 중 하나라도 다른 외래키가 걸려있으면 복합 키를 삭제할 수 없다.
