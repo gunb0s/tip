@@ -1,3 +1,10 @@
+## mysql 의 실제 로그 확인
+```sql
+set global general_log = 'ON';
+show variables like 'general_log%';
+```
+![[Pasted image 20240213170146.png]]
+![[Pasted image 20240213170217.png]]
 ## mysql timezone
 mysql 8 버전 부터 다음과 같은 에러가 발생하는데
 ```bash
