@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "databases/MySQL.md",
+                "file": "Kafka/TroubleShooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "databases/MySQL.md",
+                "file": "Kafka/TroubleShooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "databases/MySQL.md",
+                "file": "Kafka/TroubleShooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "databases/MySQL.md"
+                "file": "Kafka/TroubleShooting.md"
               }
             }
           }
@@ -148,16 +148,24 @@
   },
   "active": "6826142f5572b3b9",
   "lastOpenFiles": [
+    "Kafka/Kafka Listeners.md",
+    "Kafka/TroubleShooting.md",
+    "Kubernetes/Kind.md",
+    "READs/OOM.md",
+    "Kubernetes",
+    "Untitled.md",
+    "READs",
+    "memory/Untitled.md",
+    "memory",
+    "Database/MySQL.md",
     "Pasted image 20240213170217.png",
     "Pasted image 20240213170146.png",
-    "Kafka Listeners.md",
     "bash/SCP.md",
-    "databases/MySQL.md",
     "Pasted image 20240125111217.png",
     "Pasted image 20240125111206.png",
     "Kafka",
     "bash",
-    "databases",
+    "Database",
     "Welcome.md"
   ]
 }
