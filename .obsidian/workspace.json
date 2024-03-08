@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/TroubleShooting.md",
+                "file": "Kafka/CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/TroubleShooting.md",
+                "file": "Kafka/CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/TroubleShooting.md",
+                "file": "Kafka/CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/TroubleShooting.md"
+                "file": "Kafka/CLI.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "lastOpenFiles": [
     "Kafka/Kafka Listeners.md",
     "Kafka/TroubleShooting.md",
+    "Kafka/CLI.md",
+    "bash/Script.md",
     "Kubernetes/Kind.md",
     "READs/OOM.md",
     "Kubernetes",
