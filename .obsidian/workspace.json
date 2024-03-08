@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/CLI.md",
+                "file": "Rust/Cargo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/CLI.md",
+                "file": "Rust/Cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/CLI.md",
+                "file": "Rust/Cargo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/CLI.md"
+                "file": "Rust/Cargo.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "6826142f5572b3b9",
   "lastOpenFiles": [
+    "Kafka/CLI.md",
+    "Rust/Cargo.md",
+    "Rust",
     "Kafka/Kafka Listeners.md",
     "Kafka/TroubleShooting.md",
-    "Kafka/CLI.md",
     "bash/Script.md",
     "Kubernetes/Kind.md",
     "READs/OOM.md",
