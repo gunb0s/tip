@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Cargo.md"
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "6826142f5572b3b9",
   "lastOpenFiles": [
-    "Kafka/CLI.md",
     "Rust/Cargo.md",
+    "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
+    "JetBrainIDE",
+    "Kafka/CLI.md",
     "Rust",
     "Kafka/Kafka Listeners.md",
     "Kafka/TroubleShooting.md",
