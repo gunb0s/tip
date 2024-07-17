@@ -66,5 +66,7 @@ CALL BASIC_INSERT;
 
 복합 인덱스를 걸었을 때 인덱스가 걸린 칼럼 중 하나라도 다른 외래키가 걸려있으면 복합 키를 삭제할 수 없다.
 
-## Docker 안의 데이터베이스 데이터 Export
+## Docker 안의 데이터베이스 데이터 export, import
 `docker exec database /bin/mysqldump -u root cyphrly_api_server > backup.sql`
+
+`mysql -u root -p cyphrly_api_server < /tmp/backup.sql`
