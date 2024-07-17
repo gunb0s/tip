@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a2dee1a5f584b02",
+            "id": "6826142f5572b3b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/MySQL.md",
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MySQL.md",
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MySQL.md",
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/MySQL.md"
+                "file": "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md"
               }
             }
           }
@@ -146,30 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2dee1a5f584b02",
+  "active": "6826142f5572b3b9",
   "lastOpenFiles": [
-    "ORM/TypeORM.md",
-    "TestFrameWork/Jest.md",
-    "ORM/TypeORM/Untitled.md",
-    "ORM/TypeORM",
-    "ORM",
-    "bash/SCP.md",
-    "bash/Script.md",
-    "READs/OOM.md",
     "Rust/Cargo.md",
-    "TestFrameWork",
+    "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
+    "JetBrainIDE",
     "Kafka/CLI.md",
     "Rust",
     "Kafka/Kafka Listeners.md",
     "Kafka/TroubleShooting.md",
+    "bash/Script.md",
     "Kubernetes/Kind.md",
+    "READs/OOM.md",
     "Kubernetes",
+    "Untitled.md",
     "READs",
     "memory/Untitled.md",
     "memory",
     "Database/MySQL.md",
     "Pasted image 20240213170217.png",
     "Pasted image 20240213170146.png",
+    "bash/SCP.md",
     "Pasted image 20240125111217.png",
     "Pasted image 20240125111206.png",
     "Kafka",
