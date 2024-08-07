@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15a88538a709b3ac",
+        "id": "5f80c0dcea1b2a18",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2dee1a5f584b02",
+            "id": "d39c53ef01f50b54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Logging Architecture.md",
-                "mode": "source",
+                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac2fab7e6de6785c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Logging Architecture.md",
+                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Logging Architecture.md",
+                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Logging Architecture.md"
+                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md"
               }
             }
           }
@@ -147,17 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2dee1a5f584b02",
+  "active": "d39c53ef01f50b54",
   "lastOpenFiles": [
+    "Kubernetes/Logging Architecture.md",
+    "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
+    "Kubernetes/Kind.md",
+    "Kafka/Kafka Listeners.md",
+    "Kafka/CLI.md",
+    "ORM/TypeORM.md",
     "Pasted image 20240801151633.png",
     "Pasted image 20240801151156.png",
     "Pasted image 20240801150509.png",
     "Database/MySQL.md",
-    "Kubernetes/Logging Architecture.md",
     "conflict-files-obsidian-git.md",
     "JetBrainIDE/PyCharm Docker Compose 환경에서 개발하기.md",
     "JetBrainIDE",
-    "ORM/TypeORM.md",
     "TestFrameWork/Jest.md",
     "ORM/TypeORM/Untitled.md",
     "ORM/TypeORM",
@@ -167,11 +170,8 @@
     "READs/OOM.md",
     "Rust/Cargo.md",
     "TestFrameWork",
-    "Kafka/CLI.md",
     "Rust",
-    "Kafka/Kafka Listeners.md",
     "Kafka/TroubleShooting.md",
-    "Kubernetes/Kind.md",
     "Kubernetes",
     "READs",
     "memory/Untitled.md",
