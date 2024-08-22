@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
-                "mode": "preview",
+                "file": "Vim/여러 줄에 커서 놓고 움직이기.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
+                "file": "Vim/여러 줄에 커서 놓고 움직이기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
+                "file": "Vim/여러 줄에 커서 놓고 움직이기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md"
+                "file": "Vim/여러 줄에 커서 놓고 움직이기.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "d39c53ef01f50b54",
   "lastOpenFiles": [
-    "Kubernetes/Logging Architecture.md",
     "Kubernetes/Local 환경에서 Kubernetes Kind 클러스터 설치.md",
+    "Vim/여러 줄에 커서 놓고 움직이기.md",
+    "Vim",
+    "Kubernetes/Logging Architecture.md",
     "Kubernetes/Kind.md",
     "Kafka/Kafka Listeners.md",
     "Kafka/CLI.md",
@@ -181,7 +183,6 @@
     "Pasted image 20240125111217.png",
     "Pasted image 20240125111206.png",
     "Kafka",
-    "bash",
     "Welcome.md"
   ]
 }
